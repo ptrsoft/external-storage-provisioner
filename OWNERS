@@ -1,0 +1,22 @@
+# See the OWNERS docs: https://git.k8s.io/community/contributors/guide/owners.md
+
+approvers:
+- wongma7
+- jsafrane
+- msau42
+- saad-ali
+- xing-yang
+
+reviewers:
+- wongma7
+- andyzhangx
+- chrishenzie
+- gnufied
+- humblec
+- mauriciopoppe
+- jingxu97
+- jsafrane
+- pohly
+- RaunakShah
+- sunnylovestiramisu
+- xing-yang
